@@ -125,8 +125,8 @@ a:hover
 
 .img
 {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
 }
 
 .code-img
@@ -175,4 +175,5 @@ a:hover
     font-size: 0.75rem;
     /* margin: 35px auto 35px auto; */
     padding: 20px 0;
+
 }
